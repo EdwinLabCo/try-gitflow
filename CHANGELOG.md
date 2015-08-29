@@ -1,6 +1,9 @@
 ### Version 1.3.3 - Agu 29 2015
 * ok ok ⚫ Edwin Andrianto
 
+### Version 1.3.2 - Agu 29 2015
+* ok ok ⚫ Edwin Andrianto
+
 ### Version 1.3.1 - Agu 29 2015
 * ok ok ⚫ Edwin Andrianto
 
