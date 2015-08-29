@@ -1,3 +1,6 @@
+### Version 1.3.4 - Agu 29 2015
+* ok bude ⚫ Edwin Andrianto
+
 ### Version 1.3.3 - Agu 29 2015
 * ok ok ⚫ Edwin Andrianto
 
